@@ -1,0 +1,17 @@
+{
+  "name": "send-bulk-sms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/cobraz-sandbox/send-bulk-sms.git",
+  "author": "Simen A. W. Olsen <so@bjerk.io>",
+  "license": "MIT",
+  "prettier": "@cobraz/prettier",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.10",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@cobraz/prettier": "^2.0.0",
+    "prettier": "^2.5.1"
+  }
+}
